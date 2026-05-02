@@ -6,12 +6,12 @@ import { getAuth, GoogleAuthProvider, signInWithPopup, signOut } from 'firebase/
 // SUBSTITUIR PELAS SUAS CHAVES DO FIREBASE
 // ========================================
 const firebaseConfig = {
-  apiKey: "SUA_API_KEY",
-  authDomain: "SEU_PROJETO.firebaseapp.com",
-  projectId: "SEU_PROJETO",
-  storageBucket: "SEU_PROJETO.firebasestorage.app",
-  messagingSenderId: "SEU_SENDER_ID",
-  appId: "SEU_APP_ID"
+  apiKey: "AIzaSyBZnLh6OLjB2CgzY2KAxMW87M7g0z84y6w",
+  authDomain: "vermeulucro.firebaseapp.com",
+  projectId: "vermeulucro",
+  storageBucket: "vermeulucro.firebasestorage.app",
+  messagingSenderId: "6694336959",
+  appId: "1:6694336959:web:7669b0b69584926c10c90a"
 };
 // ========================================
 
